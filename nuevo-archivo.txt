@@ -1,0 +1,6 @@
+Si quiere dar sus primeros pasos o mejorar sus 
+conocimientos en el mundo de PHP8, JS y HTML5, 
+y perfeccionar sus trabajos como desarrollador, 
+este libro será su gran aliado. En él encontrará 
+desde ejemplos de código sencillos, para afianzar los conceptos básicos, 
+hasta una amplia gama de ejemplos avanzados.
